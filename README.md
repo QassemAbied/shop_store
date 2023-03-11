@@ -1,12 +1,17 @@
 # e_commerce
 
-A Flutter E-commerce app .
+A Flutter E-commerce app 
 
-## Getting Started
+## OS
 
-This project is a starting point for a Flutter application.
+1 _ Android
+2 _ IOS
 
-A few resources to get you started if this is your first Flutter project:
+
+## Framework and language  
+
+1 _ Flutter v- 3.3.2
+2 _ Dart
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
