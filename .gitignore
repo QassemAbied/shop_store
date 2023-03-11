@@ -44,3 +44,5 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+/lib/presentation/component/rating_widget.dart
+/lib/presentation/component/limit_product.dart
