@@ -4,8 +4,9 @@ A Flutter E-commerce app
 
 ## OS
 
-1 _ Android
-2 _ IOS
+1. Android
+2. IOS
+
 
 
 ## Framework and language  
