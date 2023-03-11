@@ -39,8 +39,6 @@ A Flutter E-commerce app
 ![Screenshot_2023-03-11-18-09-30-29](https://user-images.githubusercontent.com/111589262/224495195-3e600abb-57b5-4943-82b7-e585eb4c8f5b.png)
 ![Screenshot_2023-03-11-18-14-30-70](https://user-images.githubusercontent.com/111589262/224495338-ea8326c6-2a9e-4a96-b885-1a49b15ef6d9.png)
 ![Screenshot_2023-03-11-18-13-06-59](https://user-images.githubusercontent.com/111589262/224495340-826ac287-b109-43ba-9c1b-8b64b4b20f2c.png)
-![Screenshot_2023-03-11-18-13-06-59](https://user-images.githubusercontent.com/111589262/224495365-07d150c6-2968-4576-9b2a-3619dffdaa7f.png)
-![Screenshot_2023-03-11-18-14-30-70](https://user-images.githubusercontent.com/111589262/224495366-33eac4b6-7f35-4ccc-9448-4b0301b55f5a.png)
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
